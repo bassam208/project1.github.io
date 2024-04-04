@@ -1,0 +1,29 @@
+body{
+    background-image: linear-gradient(to bottom,black,transparent);
+}
+.top{
+    text-align: center;
+    font-size: 30px;
+    color: goldenrod;
+    text-decoration: double goldenrod underline;
+}
+.img1{
+    width: 100%;
+}
+.who{
+    border: double burlywood 4px;
+}
+table{
+    border: gray solid 5px;
+}
+table tr th{
+    border: rgb(0, 129, 138) double 4px;
+    background-color: rgb(245, 0, 0);
+}
+table tr td{
+    border: darkblue double 4px;
+    background-color: rgb(0, 119, 255);
+}
+table tr td:hover{
+    background-color: goldenrod;
+}

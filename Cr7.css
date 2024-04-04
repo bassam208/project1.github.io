@@ -1,0 +1,29 @@
+body{
+    background-image: linear-gradient(to bottom,black,transparent);
+}
+.Cristiano{
+    color: goldenrod;
+    text-align: center;
+    text-transform: uppercase;
+    text-decoration: double underline 2.5px;
+}
+.img1{
+    width: 100%;
+}
+table{
+    border: #000000 solid 6px;
+}
+table th{
+    text-transform:uppercase ;
+    border: double 4.5px goldenrod;
+    background-color: burlywood;
+}
+table td{
+    border: double goldenrod 4px;
+    color: rgb(17, 0, 255);
+    background-color: gold;
+}
+table td:hover{
+    background-color: rgb(255, 0, 0);
+}
+

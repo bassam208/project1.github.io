@@ -1,0 +1,30 @@
+body{
+    background-image: linear-gradient(to bottom,black,transparent);
+}
+.top{
+    text-align: center;
+    color: goldenrod;
+    text-decoration: double underline goldenrod;
+}
+.who{
+    border: dotted gold 5px;
+}
+.img1{
+    width:100%;
+}
+table th{
+    background-color: black;
+    color: chartreuse;
+    border: 5px solid skyblue;
+}
+table tr{
+    background-color: burlywood;
+    color: red;
+    border: 5px solid skyblue;
+}
+table tr:hover{
+    background-color: aquamarine;
+}
+table th:hover{
+    background-color: rgb(218, 32, 32);
+}

@@ -1,0 +1,31 @@
+body{
+    background-image: url(main\ photo.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.top{
+    text-align: center;
+    text-transform: uppercase;
+    color: darkblue;
+    text-decoration: double underline 5px gainsboro;
+}
+.cr7{
+    font-size: larger;
+    color: goldenrod;
+    position: relative;
+    left: 100px;
+}
+.messi{
+    font-size: larger;
+    color: goldenrod;
+    position: relative;
+    left: 360px;
+}
+.salah{
+    font-size: larger;
+    color: goldenrod;
+    position: relative;
+    left: 630px;
+}
+
+
